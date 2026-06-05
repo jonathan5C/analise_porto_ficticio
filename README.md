@@ -39,3 +39,8 @@ Dados fictícios, gerados pelo Claude, de entregas dentro de um porto fictício.
 **Resultado**: O mês 8 (agosto) teve o maior número de descargar do modal Isotank com um total de 17 vezes (diferença de 2,5% para o mês de junho).
 <br>
 ![Gráfico do Isotank](graficos/Gráfico%20-%20Quantidade%20de%20descarga%20do%20modal%20Isotank.png)
+
+> Qual modal foi mais utilizado durante 2025?
+
+**Resultado:** O modal mais utilizado em todo o ano foi o Marítimo com 326 descargas no Porto, uma diferença de 210 vezes para o segundo colocado.
+![Gráfico da Quantidade](graficos/Gráfico%20-%20Quantidade%20por%20Modal.png)
