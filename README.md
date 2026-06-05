@@ -20,27 +20,20 @@ Dados fictícios, gerados pelo Claude, de entregas dentro de um porto fictício.
 
 ## Análise estatística
 
-> Durante o ano de 2025, qual tipo descarregou mais no porto?
-
-**Resultado:** Granel Líquido foi o tipo que mais descarregou no porto, uma representatividade de 28% (2,79% a mais que o segundo tipo, Granel Sólido).
-![Gráfico](graficos/Gráfico%20-%20Porcentagem%20de%20tipos%20de%20cargas.png)
+> [Durante o ano de 2025, qual tipo descarregou mais no porto?](insights/insight01.md)
 
 ---
 
-> Que tipo de modal descarregou mais no 2º trimestre de 2025? (Abril - Junho)
-
-**Resultado:** O modal que descarregou 90 vezes no trimestre foi o Marítimo.
-![Gráfico Modal](graficos/Gráfico%20-%20Descarga%20dos%20modais%20no%202º%20trimestre%20de%202025.png)
+> [Que tipo de modal descarregou mais no 2º trimestre de 2025? (Abril - Junho)](insights/insight02.md)
 
 ---
 
-> Qual mês o Isotank teve maior descarga no porto?
+> [Qual mês o Isotank teve maior descarga no porto?](insights/insight03.md)
 
-**Resultado**: O mês 8 (agosto) teve o maior número de descargar do modal Isotank com um total de 17 vezes (diferença de 2,5% para o mês de junho).
-<br>
-![Gráfico do Isotank](graficos/Gráfico%20-%20Quantidade%20de%20descarga%20do%20modal%20Isotank.png)
+---
 
-> Qual modal foi mais utilizado durante 2025?
+> [Qual modal foi mais utilizado durante 2025?](insights/insight04.md)
 
-**Resultado:** O modal mais utilizado em todo o ano foi o Marítimo com 326 descargas no Porto, uma diferença de 210 vezes para o segundo colocado.
-![Gráfico da Quantidade](graficos/Gráfico%20-%20Quantidade%20por%20Modal.png)
+---
+
+> [Qual é o peso total (em toneladas) movimentado em cada tipo de carga?](insights/insight05.md)
