@@ -33,3 +33,7 @@ Dados fictícios, gerados pelo Claude, de entregas dentro de um porto fictício.
 ---
 
 > [Qual modal foi mais utilizado durante 2025?](insights/insight04.md)
+
+---
+
+> [Qual é o peso total (em toneladas) movimentado em cada tipo de carga?](insights/insight05.md)
