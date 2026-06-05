@@ -37,3 +37,7 @@ Dados fictícios, gerados pelo Claude, de entregas dentro de um porto fictício.
 ---
 
 > [Qual é o peso total (em toneladas) movimentado em cada tipo de carga?](insights/insight05.md)
+
+---
+
+> [Quantas operações foram registradas por mês ao longo de 2025?](insights/insight06.md)
